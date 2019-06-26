@@ -58,7 +58,6 @@ module Competo
           return false
         end
       end
-      # 全て等しい場合はfalse
       false
     end
 
@@ -72,7 +71,6 @@ module Competo
           return false
         end
       end
-      # 全て等しい場合はtrue
       true
     end
 
